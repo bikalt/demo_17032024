@@ -1,1 +1,1 @@
-select * from bikal where name="bikal";
+select * from bikal where name="bikal" and roll =1;
